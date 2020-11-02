@@ -11,6 +11,18 @@
 # production
 /build
 
+#features under development
+Navigation2.js
+wine.js
+Registration.js
+
+#firebase
+.firebase
+.firebaserc
+firebase.json
+firebaseConfig.js
+database.rules.json
+
 # misc
 .DS_Store
 .env.local
